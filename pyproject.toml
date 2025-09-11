@@ -1,0 +1,19 @@
+[project]
+name = "libresubtitles"
+version = "0.1.0"
+description = "Privacy-first AI subtitles for videos and audio"
+authors = [
+    {name = "Chirag Juneja",email = "chiragjuneja6@gmail.com"}
+]
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = "3.9.23"
+dependencies = [
+    "openai-whisper (>=20250625,<20250626)",
+    "ffmpeg-python (>=0.2.0,<0.3.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
