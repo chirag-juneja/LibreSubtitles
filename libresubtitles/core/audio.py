@@ -23,8 +23,3 @@ def video_to_audio(video_path: str) -> str:
     )
 
     return audio_path
-
-
-if __name__ == "__main__":
-    r = video_to_audio("./data/movie.mp4")
-    print(r)
