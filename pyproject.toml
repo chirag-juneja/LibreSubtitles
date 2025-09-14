@@ -1,6 +1,6 @@
 [project]
 name = "libresubtitles"
-version = "1.0.0"
+version = "1.0.2"
 description = "Privacy-first AI subtitles for videos and audio"
 authors = [
     {name = "Chirag Juneja",email = "chiragjuneja6@gmail.com"}
