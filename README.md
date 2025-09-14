@@ -1,7 +1,7 @@
 # LibreSubtitles
 
 ![PyPI](https://img.shields.io/pypi/v/libresubtitles)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![Python](https://img.shields.io/badge/python-3.13%2B-blue)
 
 **LibreSubtitles** is an open-source, offline subtitle generator accurate subtitles using [Whisper](https://github.com/openai/whisper). 
