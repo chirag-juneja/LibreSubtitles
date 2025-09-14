@@ -7,7 +7,8 @@
 **LibreSubtitles** is an open-source, offline subtitle generator accurate subtitles using [Whisper](https://github.com/openai/whisper). 
 
 ---
-
+![Project Logo](assets/logo.png)
+---
 ## Features
 
 - Generate `.srt` subtitles from audio or video files.
